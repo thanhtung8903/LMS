@@ -1,0 +1,14 @@
+E:\code\c#\LMS\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+E:\code\c#\LMS\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+E:\code\c#\LMS\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+E:\code\c#\LMS\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\c#\LMS\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+E:\code\c#\LMS\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+E:\code\c#\LMS\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+E:\code\c#\LMS\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+E:\code\c#\LMS\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+E:\code\c#\LMS\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+E:\code\c#\LMS\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+E:\code\c#\LMS\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+E:\code\c#\LMS\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+E:\code\c#\LMS\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache

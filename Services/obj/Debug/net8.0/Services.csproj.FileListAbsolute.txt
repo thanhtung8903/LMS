@@ -1,0 +1,15 @@
+E:\code\c#\LMS\Services\bin\Debug\net8.0\Services.deps.json
+E:\code\c#\LMS\Services\bin\Debug\net8.0\Services.dll
+E:\code\c#\LMS\Services\bin\Debug\net8.0\Services.pdb
+E:\code\c#\LMS\Services\bin\Debug\net8.0\BusinessObjects.dll
+E:\code\c#\LMS\Services\bin\Debug\net8.0\BusinessObjects.pdb
+E:\code\c#\LMS\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+E:\code\c#\LMS\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\c#\LMS\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+E:\code\c#\LMS\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+E:\code\c#\LMS\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+E:\code\c#\LMS\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+E:\code\c#\LMS\Services\obj\Debug\net8.0\Services.dll
+E:\code\c#\LMS\Services\obj\Debug\net8.0\refint\Services.dll
+E:\code\c#\LMS\Services\obj\Debug\net8.0\Services.pdb
+E:\code\c#\LMS\Services\obj\Debug\net8.0\ref\Services.dll
